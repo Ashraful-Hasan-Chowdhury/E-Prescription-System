@@ -9,14 +9,8 @@
 </head>
 
 <body>
-    This page is used for testing purpose...
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae distinctio eos eaque, praesentium tenetur ad quam.
-    Eligendi, reprehenderit quidem doloribus officiis quos accusamus fuga, corporis recusandae tempore pariatur dolorum
-    magnam, nesciunt repellat. Animi perferendis ducimus repellat at eos facilis quisquam. Aut, laudantium iste. Animi
-    optio iusto fugit modi nesciunt numquam in deserunt? Repellat maiores quis earum labore velit ipsum officiis
-    expedita culpa assumenda obcaecati delectus suscipit, officia fugit provident nostrum, tenetur error commodi placeat
-    consectetur. Necessitatibus eos earum perspiciatis dolorum porro vel consequuntur totam omnis quo! Minus numquam
-    magnam laborum ratione tenetur alias. Fuga, amet quibusdam omnis ea reprehenderit necessitatibus?
+    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quod modi cumque reprehenderit quia nam unde eveniet
+    praesentium soluta perspiciatis necessitatibus sed, maxime nostrum non at. Nesciunt quae debitis ut enim.
 </body>
 
 </html>
